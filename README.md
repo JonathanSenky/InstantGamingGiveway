@@ -3,7 +3,7 @@
 
 
 # InstantGamingGiveaway FR
-Logiciel permettant de participer à prêt d'une centaine de concours instant gaming automatiquement. Développé par mes soins dans le but personnel d'apprendre la technologie KotlinMultiPlatform (KMP), j'ai décidé de le rendre accessible au public
+Logiciel permettant de participer à prêt d'une centaine de concours instant gaming automatiquement. Développé par mes soins dans le but personnel d'apprendre la technologie KotlinMultiPlatform (KMP), j'ai décidé de le rendre accessible au public.
 
 Si vous souhaitez me soutenir, utilisez [ce lien](https://www.instant-gaming.com/fr/?igr=gaminghive) lors de vos achats, ou ajoutez simplement *?igr=gaminghive* à la fin de votre URL lorsque vous achetez un jeu sur le site.
 
@@ -15,10 +15,10 @@ Non. Ce logiciel ne fait pas ce que l'on appelle du ["Web Scraping"](https://en.
 Si vous avez déjà un compte passez à l'étape suivante, sinon créez un compte [ici](https://www.instant-gaming.com/fr/?igr=gaminghive)
 
 ### Télécharger mon logiciel
-A droite de l'écran, dans la catégorie [releases](https://github.com/JonathanSenky/InstantGamingGiveway/releases) vous pourrez trouver l'executable qui vous convient : .dmg si vous êtes sur Mac, .msi si vous êtes sous windows
+A droite de l'écran, dans la catégorie [releases](https://github.com/JonathanSenky/InstantGamingGiveway/releases) vous pourrez trouver l'executable qui vous convient : .dmg si vous êtes sur Mac, .msi si vous êtes sous Windows.
 
 ### Installer le logiciel
-Double cliquez simplement sur l'élément téléchargé pour lancer l'installation
+Double cliquez simplement sur l'élément téléchargé pour lancer l'installation.
 
 ### Lancer le logiciel
-Lancez ensuite le logiciel et laissez vous guidez par les instructions à l'écran
+Lancez ensuite le logiciel et laissez vous guidez par les instructions à l'écran.
